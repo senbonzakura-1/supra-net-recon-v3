@@ -1,0 +1,1 @@
+/sys/class/net/vethA/address
